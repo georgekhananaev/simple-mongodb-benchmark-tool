@@ -31,7 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository** (or download the zip file and extract it)
 
    ```bash
-   git clone https://yourgithubrepo/simple-mongodb-benchmark-tool.git
+   git clone https://github.com/georgekhananaev/simple-mongodb-benchmark-tool.git
    cd simple-mongodb-benchmark-tool
 	```
  
